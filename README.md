@@ -1,6 +1,6 @@
 
 ![Shadir's GitHub Banner](https://media.licdn.com/dms/image/D5616AQGgVHn6fZeFFQ/profile-displaybackgroundimage-shrink_350_1400/0/1673892485014?e=1684368000&v=beta&t=A3vj-aw2ySqPh3QaTaCXIAx77Bicww4-JYhihj8f7Pc)
-<h1 align="center">I'm Bezyl Mophat Otieno</h1>
+<h2 align="start">I'm Bezyl Mophat Otieno</h2>
 <h3 align="start">Welcome to my GitHub profile! I'm a passionate software engineer with a drive for creating elegant and efficient solutions. With a solid foundation in Software Engineering and a knack for problem-solving, I strive to tackle complex challenges head-on and deliver high-quality code.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bezyl-mophat-otieno" alt="bezyl-mophat-otieno" /></a> </p>
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/bezyl-otieno](https://www.linkedin.com/in/bezyl-otieno-13a49a217/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bezyl-otieno" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bezyl-otieno-13a49a217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bezyl-otieno" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
