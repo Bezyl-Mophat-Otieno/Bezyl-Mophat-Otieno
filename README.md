@@ -1,5 +1,5 @@
 <h1 align="center">I'm Bezyl Mophat Otieno</h1>
-<h3 align="center">👋 Welcome to my GitHub profile! I'm a passionate software engineer with a drive for creating elegant and efficient solutions. With a solid foundation in computer science and a knack for problem-solving, I strive to tackle complex challenges head-on and deliver high-quality code.</h3>
+<h3 align="center">👋 Welcome to my GitHub profile! I'm a passionate software engineer with a drive for creating elegant and efficient solutions. With a solid foundation in Software Engineering and a knack for problem-solving, I strive to tackle complex challenges head-on and deliver high-quality code.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bezyl-mophat-otieno" alt="bezyl-mophat-otieno" /></a> </p>
 
