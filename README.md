@@ -1,4 +1,4 @@
-(https://media.licdn.com/dms/image/D5616AQGgVHn6fZeFFQ/profile-displaybackgroundimage-shrink_350_1400/0/1673892485014?e=1684368000&v=beta&t=A3vj-aw2ySqPh3QaTaCXIAx77Bicww4-JYhihj8f7Pc)
+
 <h2 align="start">I'm Bezyl Mophat Otieno</h2>
 <h3 align="start">Welcome to my GitHub profile! I'm a passionate software engineer with a drive for creating elegant and efficient solutions. With a solid foundation in Software Engineering and a knack for problem-solving, I strive to tackle complex challenges head-on and deliver high-quality code.</h3>
 
