@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bezyl-mophat-otieno" alt="bezyl-mophat-otieno" /></a> </p>
 
-- 🔭 I’m currently working on [SOMA_LINK](https://github.com/Bezyl-Mophat-Otieno/SOMA_LINK)
+- 🔭 I’m currently working on [UNI-Verse](https://github.com/Bezyl-Mophat-Otieno/uniSpacev2)
 
-- 🌱 I’m currently learning **FLUTTER,DJANGO,FLASK**
+- 🌱 I’m currently learning **REACTNATIVE,DJANGO,PRISMA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bezyl-Mophat-Otieno](https://github.com/Bezyl-Mophat-Otieno)
 
