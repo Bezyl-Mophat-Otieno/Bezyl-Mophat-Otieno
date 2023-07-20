@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bezyl-mophat-otieno" alt="bezyl-mophat-otieno" /></a> </p>
 
-- 🔭 I’m currently working on [UNI-Verse](https://github.com/Bezyl-Mophat-Otieno/uniSpacev2)
+- 🔭 I’m currently working on [Uni-Space](https://github.com/Bezyl-Mophat-Otieno/uniSpacev2)
 
-- 🌱 I’m currently learning **REACTNATIVE,DJANGO,PRISMA**
+- 🌱 I’m currently learning **REACTNATIVE,DJANGO,PRISMA ,MSSQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bezyl-Mophat-Otieno](https://github.com/Bezyl-Mophat-Otieno)
 
-- 💬 Ask me about **React , Express , MongoDB**
+- 💬 Ask me about **React , Express , MongoDB , JAVASCRIPT , NODE**
 
 - 📫 How to reach me **bezylmophatotieno@gmail.com**
 
