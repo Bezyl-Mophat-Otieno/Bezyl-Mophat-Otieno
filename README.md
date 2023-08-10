@@ -33,13 +33,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bezyl-mophat-otieno&" alt="bezyl-mophat-otieno" /></p>
 
 <h2 align="start">My Cv</h2>
-Bezyl Mophat Otieno
-Location: Mombasa, Kenya
-Phone: +254702715906
-Email: bezylmophatotieno@gmail.com
-GitHub: github.com/Bezyl-Mophat-Otieno
-LinkedIn: linkedin.com/in/bezyl-otieno-13a49a217
-Hashnode: hashnode.com/@Mophat
 
 **Professional Summary:**
 Results-driven software engineer with a two-year track record in full-stack web and cross-platform mobile app development. Proficient in Java, Python, React, Dart, and Node.js. Skilled in translating user needs into innovative and efficient software solutions. Adept at collaborative teamwork, project management, and process improvement.
