@@ -32,3 +32,95 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bezyl-mophat-otieno&" alt="bezyl-mophat-otieno" /></p>
 
+<h2 align="start">My Cv</h2>
+Bezyl Mophat Otieno
+Location: Mombasa, Kenya
+Phone: +254702715906
+Email: bezylmophatotieno@gmail.com
+GitHub: github.com/Bezyl-Mophat-Otieno
+LinkedIn: linkedin.com/in/bezyl-otieno-13a49a217
+Hashnode: hashnode.com/@Mophat
+
+**Professional Summary:**
+Results-driven software engineer with a two-year track record in full-stack web and cross-platform mobile app development. Proficient in Java, Python, React, Dart, and Node.js. Skilled in translating user needs into innovative and efficient software solutions. Adept at collaborative teamwork, project management, and process improvement.
+
+**Core Competencies:**
+- Full Stack Web and App Development
+- Cloud Computing and Serverless Functions (Google Cloud)
+- UI/UX Design and Graphic Design
+- Cloud Services and Web Hosting
+- Project Management and Risk Management
+- System Analysis, Design, and Scoping
+- IT Support, Networking, and System Administration
+
+**Professional Experience:**
+
+**QA/QE Intern | The Jitu | July 2023 - Present**
+- Designed and executed comprehensive test plans, documenting defects using Postman.
+- Improved test coverage and accuracy by creating detailed test cases.
+- Enhanced communication and issue resolution in daily stand-up meetings.
+- Identified edge cases and issues through exploratory testing.
+- Implemented [specific testing methodology], improving process efficiency.
+- Collaborated with developers for prompt defect resolution.
+- Documented comprehensive test reports and successfully delivered [specific project/task].
+
+**Blogger and Technical Writer | LinkedIn | Nov 2022 - Present**
+- Authored insightful tech articles for a non-technical audience.
+- Collaborated with industry experts for expert opinions.
+- Grew online presence and engagement through high-quality content.
+- Fostered a community of tech enthusiasts.
+
+**Volunteering Web Application Developer | Venue Booking System | Industrial Attachment**
+Unispace, Kisii University | May 2023 - Present
+- Conceptualized, designed, and developed the "Unispace" Venue Booking System.
+- Collaborated with stakeholders to align design with user needs.
+- Designed intuitive user interface and automated features.
+- Ensured equal opportunities and reduced biases in resource access.
+- Conducted testing for reliability, security, and responsiveness.
+- Documented architecture, functionalities, and technical specs.
+
+**SOMA_TUBE - April 2023 - May 2023**
+- Developed a web app for students to share tutorials using React, Redux, Express, and Firebase.
+- Created API using ExpressJS and managed states with React Redux.
+- Utilized Firebase for storage and authentication.
+
+**Volunteering Tutor - Web Development | Feb 2023 – Present**
+ConsoliData LTD - Kisii
+- Tutored and evaluated web development students.
+- Designed curriculum for online courses.
+
+**Education and Training:**
+
+**QA/QE Training | The Jitu | July 2023 - Present**
+- Comprehensive training in QA methodologies and software testing.
+- Hands-on experience in unit, integration, and end-to-end testing.
+- Collaboration with cross-functional teams and defect tracking.
+
+**Bachelor's Degree - Software Engineering | Kisii University | Oct 2020 - Present**
+- Relevant coursework in data structures, OOP, SDLC, DBMS, and more.
+- Emphasis on agile methodologies and software security.
+
+**Google IT Support Professional Certificate | Coursera | Oct 2022 - Dec 2022**
+- Developed IT support fundamentals, networking, and system administration skills.
+
+**Professional Certifications:**
+- Technical Support Fundamentals
+- Foundations of User Experience (UX) Design
+- System Administration and IT Infrastructures
+- Bits and Bytes of Computer Networking
+- Operating System and You Becoming a Power User
+- IT Security: Defense against the Digital Dark Arts
+- Agile Project Initiation
+- Foundations of Project Management
+
+**Technologies and Frameworks:**
+- Jest, Cypress, Figma, Express JS, TypeScript, SCSS, React JS, React-Redux, MongoDB, Java Core, Java Spring Boot, Git, GitHub, Bitbucket, Docker, Django, React-Native, Cloud Services
+
+**Language Proficiency:**
+English: Proficient (EFSET English Certificate)
+
+**Awards:**
+- 1st Position, Atlassian Nairobi and Africa's Talking Hackathon: Developed SOMA_LINK to improve access to education for underprivileged students.
+
+Your CV is already well-detailed and showcases a wide range of skills and experiences. However, to enhance its chances of passing through filtering systems, ensure that it's properly formatted, uses relevant keywords related to the full-stack software engineer role, and highlights your core skills and accomplishments that align with the requirements of the position.
+
