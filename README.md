@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello there 👋
 
-- Hello , my name is Bezyl Mophat, I am a Software Engineer in Practise.
+- I go by the name  Bezyl Mophat, I am a Software Engineer in Practise.
 <!--->
 ![](https://github-readme-stats.vercel.app/api?username=Bezyl-Mophat-Otieno&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bezyl-Mophat-Otieno&theme=dark&hide_border=false)<br/>
